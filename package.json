@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap3-jade-node-express",
+  "description": "Display Bootstrap 3 sample templates using Jade, Node and Express",
+  "version": "0.0.0",
+  "homepage": "http://www.alt-f1.be",
+  "author": {
+    "name": "Aman Ullah",
+    "email": "amanix007@gmail.com",
+    "url": "http://www.theaman.co"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^3.2.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-pug": "^1.2.0",
+    "gulp-sass": "^2.2.0",
+    "pug": "^2.0.0-alpha3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amanix007/agency.git"
+  }
+}
