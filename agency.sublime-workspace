@@ -1,0 +1,1029 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ela",
+				"elastislide-list"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"tre",
+				"true"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"anima",
+				"animate	.animate()"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"contact",
+				"contactform"
+			],
+			[
+				"slide",
+				"slideUp	.slideUp()"
+			],
+			[
+				"prepen",
+				"prependTo	.prependTo()"
+			],
+			[
+				"appe",
+				"appendTo	.appendTo()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"mouse",
+				"mouseenter	.mouseenter()"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ou",
+				"outputDir"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"h",
+				"h4	Tag"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"cla",
+				"class	Attr"
+			],
+			[
+				"Bac",
+				"Backgrounds	(style.css)"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"imp",
+				"important	(elements.html)"
+			],
+			[
+				"adap",
+				"adaptiveHeight"
+			],
+			[
+				"clea",
+				"clearfix	(elements.html)"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pug/index.pug",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "enab",
+		"selected_items":
+		[
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enabal",
+				"Package Control: Enable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"daib",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enabl",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enable li",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"ingl",
+				"Preferences: Settings - Default"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"en",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"eab",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"git init",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/aman/node_projects/slider/slider.css",
+		"/D/aman/node_projects/agency/package.json",
+		"/D/aman/node_projects/agency/gulpfile.js",
+		"/D/aman/node_projects/agency/bootstrap3-jade/package.json",
+		"/D/aman/node_projects/agency/bootstrap3-jade/app/views/index.jade",
+		"/D/aman/node_projects/agency/.gitignore",
+		"/D/aman/node_projects/jq/slider/slider.css",
+		"/D/aman/jquery/Project files unzipped/lesson-14/lesson-14/slider.js",
+		"/D/aman/jquery/basic-slider-plug-in/js/index.js",
+		"/D/aman/jquery/basic-slider-plug-in/index.html",
+		"/D/aman/jquery/Project files unzipped/lesson-15/lesson-15/index.html",
+		"/D/aman/jquery/Project files unzipped/lesson-15/lesson-15/slider.css",
+		"/D/aman/jquery/Project files unzipped/lesson-15/lesson-15/slider.js",
+		"/D/aman/cob projects/IPU/jquery-mobile-theme-221328-0/index.html",
+		"/D/aman/cob projects/Paintastic/css/style.css",
+		"/D/aman/cob projects/Paintastic/plugins/Animocons-master/css/icons.css",
+		"/D/aman/cob projects/Paintastic/css/bootstrap.css",
+		"/D/aman/cob projects/Paintastic/js/custom.js",
+		"/D/aman/cob projects/IPU/nativeDroid2-master/index.html",
+		"/D/aman/cob projects/Paintastic/index.html",
+		"/C/Users/Aman/Desktop/data.json",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/style.css",
+		"/D/aman/cob projects/COB Site/index.html",
+		"/D/aman/cob projects/COB Site/css/bootstrap.css",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-2/index.php",
+		"/D/aman/cob projects/Paintastic/plugins/Windy/Windy/js/jquery.windy.js",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/User/sect.sublime-snippet",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/single.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/style 3.css",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/custom.js",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/portfolio.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/pservice.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/gallery.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/products.php",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/projects.php",
+		"/D/aman/cob projects/COB Site/css/style.css",
+		"//COB-CLOUD/Public/Aman/COB-Site/html/js/custom.js",
+		"//COB-CLOUD/Public/Aman/COB-Site/html/css/style.css",
+		"/C/Users/Aman/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/P/stuff/agency/onprocess/Agency/html/js/custom.js",
+		"/P/stuff/agency/onprocess/Agency/html/css/style.css",
+		"/P/stuff/agency/onprocess/Agency/html/css/font-awesome.min.css",
+		"/P/stuff/agency/onprocess/Agency/html/index.html",
+		"/P/stuff/agency/onprocess/Agency/html/typo.html",
+		"/P/stuff/agency/onprocess/Agency/html/css/flaticon.css",
+		"/P/stuff/agency/onprocess/Agency/html/default.html",
+		"/F/Google Drive/js/jquery/slider/lesson-15/lesson-15/slider.js",
+		"/F/Google Drive/js/jquery/slider/lesson-15/lesson-15/index.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Aman/Desktop/PhotoVewer.reg",
+		"/F/Google Drive/js/jquery/js/main.js",
+		"/F/Google Drive/js/jquery/slider/lesson-15/lesson-15/slider.css",
+		"/F/Google Drive/js/jquery/index.html",
+		"/F/Google Drive/js/jquery/css/main.css",
+		"/F/Google Drive/js/jquery/slider/lesson-14/index.html",
+		"/F/Google Drive/js/jquery/slider/lesson-14/slider.js",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/js/custom.js",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/default.html",
+		"/F/Google Drive/js/jquery/js/vendor/jquery-1.11.3.js",
+		"/F/Google Drive/js/jquery/slider/lesson-14/slider.css",
+		"/F/Google Drive/js/jquery/style.css",
+		"/F/Google Drive/js/jquery/css/day.css",
+		"/F/Google Drive/js/jquery/css/night.css",
+		"/F/Google Drive/js/jquery/js/vendor/jquery-1.11.3.min.js",
+		"/F/jquery/project files unzipped/lesson-8/lesson-8/index.html",
+		"/F/jquery/project files unzipped/lesson-5/lesson-5/style.css",
+		"/F/Google Drive/js/jquery/main.js",
+		"/F/Google Drive/js/jquery/css/normalize.css",
+		"/F/Google Drive/js/jquery/custom.js",
+		"/F/GhuGhu-master/GhuGhu-master/gulpfile.js",
+		"/F/GhuGhu-master/GhuGhu-master/src/sass/main.scss",
+		"/F/GhuGhu-master/GhuGhu-master/README.md",
+		"/F/GhuGhu-master/GhuGhu-master/src/templates/index.jade",
+		"/F/GhuGhu-master/GhuGhu-master/src/templates/about.jade",
+		"/F/GhuGhu-master/GhuGhu-master/src/templates/contact.jade",
+		"/F/1/editors/sublime/localhost.js",
+		"/F/GhuGhu-master/GhuGhu-master/.gitignore",
+		"/F/ghughu/gulpfile.js",
+		"/F/ghughu/src/sass/main.scss",
+		"/F/ghughu/builds/development/js/main.js",
+		"/F/ghughu/.gitignore",
+		"/F/ghughu/src/templates/contact.jade",
+		"/F/ghughu/src/templates/about.jade",
+		"/F/ghughu/src/templates/index.jade",
+		"/F/ghughu/.git/config",
+		"/F/ghughu/package.json",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/F/technext/gulpfile.js",
+		"/F/technext/src/templates/index.jade",
+		"/F/ghughu/bootstrap3-templates/starter-template.jade",
+		"/F/ghughu/bootstrap3-templates/dashboard.jade",
+		"/F/technext/gulpgile.js",
+		"/F/ghughu/src/templates/head.jade",
+		"/F/technext/jade-master/examples/client-compilation.jade",
+		"/F/ghughu/src/templates/footer.jade",
+		"/F/technext/jade-master/examples/form.jade",
+		"/F/technext/jade-master/examples/includes/head.jade",
+		"/F/technext/jade-master/examples/mixins/profile.jade",
+		"/F/technext/jade-master/test/run.js",
+		"/F/technext/jade-master/examples/layout.js",
+		"/F/Google Drive/WP Premium Themes for experiment/simple-theme/simple/inc/contact-process.php",
+		"/F/Google Drive/Projects/Appio project/onprocess/Appio/html/css/style.css",
+		"/F/ghughu/src/js/main.js",
+		"/F/ghughu/src/templates/variables.jade",
+		"/F/ghughu/src/sass/variables.scss",
+		"/F/ghughu/builds/development/css/main.css",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/ghughu/build/index.jade",
+		"/F/ghughu/README.md",
+		"/F/ghughu/bower_components/jquery/src/jquery.js",
+		"/F/ghughu/bower_components/jquery/src/event.js",
+		"/F/ghughu/bower_components/bootstrap/dist/js/npm.js",
+		"/F/ghughu/bootstrap3-jade-node-express-grunt/app/views/index.jade",
+		"/F/ghughu/jadebootstrap-html-seed/jade/index.jade",
+		"/C/Users/Aman/AppData/Roaming/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/F/node.app.js/app.js",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/index.html",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/image.html",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/video.html",
+		"/F/Google Drive/Projects/StartUp project/onprocess/ver.1.3/Startup/html/subscribe.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\aman\\cob projects\\COB Site",
+			"F:\\ghughu\\src\\templates",
+			"F:\\Google Drive\\Projects\\StartUp project\\onprocess\\ver.1.3\\Startup\\html",
+			"F:\\Google Drive\\Projects\\StartUp project\\onprocess\\Startup\\html"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"/",
+			"//",
+			"webp",
+			"contact",
+			"clearfix",
+			"font-face",
+			"fon-face",
+			",",
+			".intro .text",
+			"intro",
+			"col-md-6",
+			"title",
+			"intro",
+			"font",
+			"ach",
+			"post-content",
+			"Title",
+			"intro",
+			"body",
+			"back",
+			"html,",
+			"5",
+			"grid",
+			"nav",
+			".grid-sizer, .grid-item",
+			"<div class=\"grid-item\">\n                    <img src=\"img/pat/2.jpg\" />\n                  </div>",
+			"<li><img src=\"img/pat/1.jpg\" /></li>\n              <li><img src=\"img/pat/2.jpg\" /></li>\n              <li><img src=\"img/pat/1.jpg\" /></li>\n              <li><img src=\"img/pat/2.jpg\" /></li>\n              <li><img src=\"img/pat/3.jpg\" /></li>\n              <li><img src=\"img/pat/4.jpg\" /></li>\n              <li><img src=\"img/pat/1.jpg\" /></li>\n              <li><img src=\"img/pat/2.jpg\" /></li>\n              <li><img src=\"img/pat/3.jpg\" /></li>\n              <li><img src=\"img/pat/4.jpg\" /></li>\n              <li><img src=\"img/pat/1.jpg\" /></li>\n              <li><img src=\"img/pat/2.jpg\" /></li>\n              <li><img src=\"img/pat/3.jpg\" /></li>\n              <li><img src=\"img/pat/4.jpg\" /></li>\n              <li><img src=\"img/pat/1.jpg\" /></li>\n              <li><img src=\"img/pat/2.jpg\" /></li>",
+			"container-fluid",
+			".btn-default",
+			".shop_table td, .shop_table th",
+			"col[",
+			"name",
+			"table.cart td.actions input",
+			".page-template-template-fullwidth-php table",
+			".page-template-template-fullwidth-php table.",
+			"table.cart td.actions label",
+			"ul.products li.product img",
+			"ul.products li.product {",
+			"ul.products li.product",
+			"table.cart td.actions .coupon",
+			"table",
+			"summary",
+			"btn-d",
+			".grid-sizer, .grid-item",
+			"600px",
+			"800px",
+			"300ms",
+			"sidebar-offcanvas",
+			"500ms",
+			"media",
+			"col",
+			"/* 3 columns */",
+			"/* 6 columns */",
+			"col-md-6 sidebar-offcanvas",
+			"\"container\"",
+			"col-sm",
+			"nav",
+			"wind",
+			"elasti",
+			"elas",
+			"box-sha",
+			"box",
+			"<img",
+			"<img src=\"img/pat/",
+			"grid li",
+			"elastislide-list",
+			"img/pata/",
+			"pata.1",
+			"https",
+			"masonry",
+			"mason",
+			"<li>",
+			"\"//s",
+			"elas",
+			"font-family: 'Roboto Slab', serif;",
+			"h4",
+			"href=\"\"",
+			"!",
+			"\"/>",
+			"<h4>",
+			"<a href=\"#\">",
+			"\"#\"",
+			"navnext",
+			".next",
+			"windy.next",
+			"naviga",
+			"<h4>",
+			" type=\"text/javascript\"",
+			"1",
+			"new",
+			"a",
+			".product_slider .product",
+			"        <img src=\"img/pic.jpg\" alt=\"\">\n",
+			"display",
+			"flex",
+			"-webkit-flex;",
+			"media",
+			".flex-row-center",
+			".top-menu .logo",
+			"col-sm-4 item",
+			"portfolio",
+			"item-wra",
+			"item",
+			"col-sm-4 item",
+			";",
+			".footer li",
+			".row [class^=col-]",
+			"media-block",
+			"media",
+			"navbar-de",
+			"nav",
+			"class=\"attachment-shadows-post-image wp-post-image\" alt=\"2\"",
+			"<img",
+			"slider",
+			"product",
+			"all p",
+			".product_slider .product",
+			"footer",
+			"col-md-4 ",
+			"bg-",
+			"16",
+			"scripts",
+			"contain",
+			"pad",
+			" (12px)",
+			" (14px)",
+			" (18px)",
+			" (24px)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Try Our Services",
+			"2015 Ghughu",
+			"Check Our Services",
+			"Check Out Our services",
+			"<div id=\"filters-container\" class=\"filters container pad-bottom-2\">",
+			"<section id=\"portfolio\" class=\"portfolio  bg-color3 pad-top-1\">",
+			"  <div id=\"filters-container\" class=\"filters container pad-bottom-1 pad-top-1\">\n    <button data-filter=\"*\" class=\"filter-item-active filter-item tooltip-x\">\n      All\n      <span class=\"tooltip-x-content\">\n        <span class=\"tooltip-x-front\"><i class=\"fa fa-check\"></i></span>\n        <span class=\"tooltip-x-back\">*<br>All<br>Items</span>\n      </span>\n    </button>\n    \n\n    <button data-filter=\".web-design\" class=\"filter-item  tooltip-x\">Web Design\n      <span class=\"tooltip-x-content\">\n        <span class=\"tooltip-x-front\"><i class=\"fa fa-html5\"></i></span>\n        <span class=\"tooltip-x-back\">7<br>Web Design<br>Item</span>\n      </span>\n    </button>\n\n    <button data-filter=\".web_dev\" class=\"filter-item  tooltip-x\">Web Development\n      <span class=\"tooltip-x-content\">\n        <span class=\"tooltip-x-front\"><i class=\"fa fa-shield\"></i></span>\n        <span class=\"tooltip-x-back\">5<br>Web Development<br>Item</span>\n      </span>\n    </button>\n\n    \n    <button data-filter=\".uncategorized\" class=\"filter-item  tooltip-x\">Uncategorized\n      <span class=\"tooltip-x-content\">\n        <span class=\"tooltip-x-front\"><i class=\"fa fa-map-o\"></i></span>\n        <span class=\"tooltip-x-back\">3<br>Uncategorized<br>Item</span>\n      </span>\n    </button>\n  </div>",
+			"<!-- subscribe -->\n<section class=\"subscribe single-padding cover-bg bb-1\" style=\"background-image: url(img/background/bg8.jpg);\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-md-7 text-center\">\n        <img class=\"img-responsive subscribe-img\" src=\"img/content-m-1.png\" alt=\"Subscribe Image\">\n      </div>\n      <div class=\"col-md-5\">\n        <h4 class=\"h3\">Subscribe </h4>\n        <form class=\"mailchimp\">\n          <div class=\"input-group\">\n            <input class=\"email_input\" type=\"email\" name=\"email\" placeholder=\"Enter your email\">\n            <div class=\"input-group-btn\">\n              <button type=\"submit\" class=\"subscribe-submit\"><i class=\"fa fa-envelope\"></i></button>\n            </div>\n          </div>\n          <p class=\"mar-top-1\">Subscribe to our weekly newsletter, We promise you that we wont spam you. Asperiores totam molestias eaque sunt maiores delectus modi ut ab!</p>\n          <h4 class=\"subscription-success notice\">Success notice here</h4>\n          <h4 class=\"subscription-error notice\">Error notice here</h4>\n        </form>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- subscribe end-->",
+			"<div id=\"filters-container\" class=\"filters container pad-bottom-1 pad-top-1\" >\n      <button data-filter=\".uncategorized\" class=\"filter-item  tooltip-x\">Uncategorized\n        <span class=\"tooltip-x-content\">\n          <span class=\"tooltip-x-front\"><i class=\"fa fa-map-o\"></i></span>\n          <span class=\"tooltip-x-back\">3<br>Uncategorized<br>Item</span>\n        </span>\n      </button>\n\n      <button data-filter=\".web-design\" class=\"filter-item  tooltip-x\">Web Design\n        <span class=\"tooltip-x-content\">\n          <span class=\"tooltip-x-front\"><i class=\"fa fa-html5\"></i></span>\n          <span class=\"tooltip-x-back\">7<br>Web Design<br>Item</span>\n        </span>\n      </button>\n\n      <button data-filter=\".web_dev\" class=\"filter-item  tooltip-x\">Web Development\n        <span class=\"tooltip-x-content\">\n          <span class=\"tooltip-x-front\"><i class=\"fa fa-shield\"></i></span>\n          <span class=\"tooltip-x-back\">5<br>Web Development<br>Item</span>\n        </span>\n      </button>\n\n      <button data-filter=\"*\" class=\"filter-item-active filter-item tooltip-x\">\n        All\n        <span class=\"tooltip-x-content\">\n          <span class=\"tooltip-x-front\"><i class=\"fa fa-check\"></i></span>\n          <span class=\"tooltip-x-back\">*<br>All<br>Items</span>\n        </span>\n      </button>\n  </div>",
+			"<div id=\"filters-container\" class=\"filters container pad-bottom-1 pad-top-1\" >",
+			"<a href=\"img/portfolio/bg4.jpg\" class=\"image_pop\" title=\"Project Title\">\n              <img class=\"img-responsive\" src=\"img/portfolio/bg4.jpg\" alt=\"Portfolio\" />",
+			"<!-- about-us -->\n<section id=\"about\" class=\"about-us padding\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon fa fa-gears\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Product Features</span>\n        What we <span class=\"base-highlight\">are..</span>\n      </h2>\n    </header>\n\n    <ul class=\"nav nav-tabs alt\">\n      <li class=\"active\"><a href=\"#first-tab\" data-toggle=\"tab\" aria-expanded=\"true\">INTRODUCTION</a></li>\n      <li class=\"\"><a href=\"#second-tab\" data-toggle=\"tab\" aria-expanded=\"false\">ABOUT</a></li>\n      <li class=\"\"><a href=\"#third-tab\" data-toggle=\"tab\" aria-expanded=\"false\">FEATURES</a></li>\n    </ul>\n\n    <div class=\"tab-content alt\">\n      <div class=\"tab-pane fade active in\" id=\"first-tab\">\n\n        <div class=\"row flex-row-center\">\n          <div class=\"col-md-6\">\n            <div class=\"embed-video-container embed-responsive embed-responsive-16by9\">\n              <iframe class=\"embed-responsive-item\" src=\"https://player.vimeo.com/video/113575647?color=1ac6ff&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>\n            </div>    \n          </div>\n\n          <div class=\"col-md-5 col-md-offset-1\">\n            <h4>Take a sneak peek at our<br>videos, for once.</h4>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur ex modi aperiam. Quae, itaque.</p>      \n          </div>\n\n        </div>\n      </div>\n\n      <div class=\"tab-pane fade\" id=\"second-tab\">\n\n        <div class=\"row flex-row-center\">\n          <div class=\"col-md-6\">\n            <img class=\"img-responsive\" alt=\"Feature Image\" src=\"img/background/bg7.jpg\">\n          </div>\n          <div class=\"col-md-5 col-md-offset-1\">\n            <h4>Great work starts with <br>great team</h4>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur</p>\n            <a href=\"#\" class=\"read-more\">Read More</a>\n          </div>\n        </div>\n\n      </div>\n\n      <div class=\"tab-pane fade\" id=\"third-tab\">\n        <div class=\"row flex-row-center\">\n          <div class=\"col-md-6\">\n            <h4>Great work starts with <br>great team</h4>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam. Maiores explicabo  beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur</p>\n            <a href=\"#\" class=\"read-more\">Read More</a>\n          </div>\n          <div class=\"col-md-6\">\n            <img class=\"img-responsive\" alt=\"Feature Image\" src=\"img/portfolio/bg6.jpg\">\n          </div>\n          \n        </div>\n      </div>  \n\n    </div>\n  </div>\n</section>\n<!-- about-us end -->",
+			"<a href=\"img/portfolio/bg12.jpg\" class=\"image_pop\" title=\"Project Title\">",
+			"<iframe class=\"embed-responsive-item\" src=\"https://player.vimeo.com/video/113575647?color=1ac6ff&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+			"The startup is most converting landing page ever, Everything you can wish for.",
+			"<!-- about-us -->\n<section id=\"about\" class=\"about-us padding\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon fa fa-gears\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Product Features</span>\n        What we <span class=\"base-highlight\">are..</span>\n      </h2>\n    </header>\n\n    <ul class=\"nav nav-tabs alt\">\n      <li class=\"active\"><a href=\"#first-tab\" data-toggle=\"tab\" aria-expanded=\"true\">INTRODUCTION</a></li>\n      <li class=\"\"><a href=\"#second-tab\" data-toggle=\"tab\" aria-expanded=\"false\">ABOUT</a></li>\n      <li class=\"\"><a href=\"#third-tab\" data-toggle=\"tab\" aria-expanded=\"false\">FEATURES</a></li>\n    </ul>\n\n    <div class=\"tab-content alt\">\n      <div class=\"tab-pane fade active in\" id=\"first-tab\">\n\n        <div class=\"row flex-row-center\">\n          <div class=\"col-md-6\">\n            <div class=\"embed-video-container embed-responsive embed-responsive-16by9\">\n              <!-- <iframe class=\"embed-responsive-item\" src=\"https://player.vimeo.com/video/113575647?color=1ac6ff&amp;title=0&amp;byline=0&amp;portrait=0\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->\n            </div>    \n          </div>\n\n          <div class=\"col-md-5 col-md-offset-1\">\n            <h4>Take a sneak peek at our<br>videos, for once.</h4>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur ex modi aperiam. Quae, itaque.</p>      \n          </div>\n\n        </div>\n      </div>\n\n      <div class=\"tab-pane fade\" id=\"second-tab\">\n\n        <div class=\"row flex-row-center\">\n          <div class=\"col-md-6\">\n            <img class=\"img-responsive\" alt=\"Feature Image\" src=\"img/background/bg7.jpg\">\n          </div>\n          <div class=\"col-md-5 col-md-offset-1\">\n            <h4>Great work starts with <br>great team</h4>\n            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores explicabo beatae omnis modi laboriosam? Totam quae, ab, vero tempora minus ipsam at dolores dolor, obcaecati deleniti provident pariatur</p>\n            <a href=\"#\" class=\"read-more\">Read More</a>\n          </div>\n        </div>\n\n      </div>\n\n      <div class=\"tab-pane fade\" id=\"third-tab\">\n        <div class=\"features_3 text-center container\">\n\n          <div class=\"row col-md-10 col-md-offset-1\">\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-meh-o\"></i>\n                <h5><strong>Web Design</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-circle-o-notch\"></i>\n\n                <h5><strong>Modern Web Markup</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-terminal\"></i>\n\n                <h5><strong>Better Code</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-gears\"></i>\n                <h5><strong>Web Development</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-television\"></i>\n\n                <h5><strong>Markup The Responsive Web</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n\n            <div class=\"col-sm-4\">\n              <div class=\"feature\">\n                <i class=\"icon fa fa-tripadvisor\"></i>\n\n                <h5><strong>Better Team</strong></h5>\n                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro</p>\n              </div>\n            </div>\n          </div>\n        </div>  \n      </div>  \n\n    </div>\n  </div>\n</section>\n<!-- about-us end -->",
+			"<!-- services -->\n<section id=\"services\" class=\"services padding gray-bg\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon fa fa-terminal\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Choose your required service from here</span>\n        Services We Provide\n      </h2>\n    </header>\n\n\n    <div class=\"row\">\n\n     <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Web Design</h4>\n        <img src=\"img/icons/png/colored/Laptop.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Web Design</h4>\n          <ul>\n            <li><a href=\"#\">PSD TO HTML</a></li>\n            <li><a href=\"#\">Adaptive Web Design</a></li>\n            <li><a href=\"#\">Responsive Web Design</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Web Application</h4>\n        <img src=\"img/icons/png/colored/Desktop.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Web Application</h4>\n          <ul>\n            <li><a href=\"#\">Larvel</a></li>\n            <li><a href=\"#\">Symphony</a></li>\n            <li><a href=\"#\">WordPress</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n\n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Site Maintenance</h4>\n        <img src=\"img/icons/png/colored/Browser_Icon.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Site Maintenance</h4>\n          <ul>\n            <li><a href=\"#\">Speeding Up</a></li>\n            <li><a href=\"#\">Server Maintain</a></li>\n            <li><a href=\"#\">System Management</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Project Management</h4>\n        <img src=\"img/icons/png/colored/Desk.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Project Management</h4>\n          <ul>\n            <li><a href=\"#\">Strategy Development </a></li>\n            <li><a href=\"#\">Project Manager</a></li>\n            <li><a href=\"#\">PM Training</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Illustration</h4>\n        <img src=\"img/icons/png/colored/Drawing_Tablet.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Illustration</h4>\n          <ul>\n            <li><a href=\"#\">Logo Design</a></li>\n            <li><a href=\"#\">Product Design</a></li>\n            <li><a href=\"#\">Item Redesign</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Brand Design</h4>\n        <img src=\"img/icons/png/colored/Presentation.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <h4>Brand Design</h4>\n          <ul>\n            <li><a href=\"#\">Digital Design</a></li>\n            <li><a href=\"#\">Creative Talking</a></li>\n            <li><a href=\"#\">Branding</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n\n\n  </div>\n</div>\n</section>\n<!-- services end -->",
+			"<div class=\"magnificPopUp_close\">Close</div>",
+			"<!-- team -->\n<section id=\"team\" class=\"team text-center padding\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon fa fa-tripadvisor\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">People Who cares</span>\n        Our Team \n      </h2>\n    </header>\n\n\n    <div class=\"row\">\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#first_member\" class=\"member_pop\" title=\"ITEM TITLE\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-9.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Tom Doe</h4>\n              <h5 class=\"dull\">UI/UX Designer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"first_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-9.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h4 class=\"name\">Tom Doe</h4>\n                  <span class=\"info\">UI/UX -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae nesciunt cupiditate incidunt, quam fugiat perspiciatis fugit autem sit repudiandae nisi recusandae labore necessitatibus ipsam vero ratione laudantium hic, fuga! Odit aspernatur nihil deleniti quisquam fuga dolorem sit debitis? Deleniti cupiditate dolore aliquam non consectetur perferendis culpa quidem, aliquid dignissimos dicta vel quo quam voluptatem quae sit possimus dolor, magnam voluptas ad aut porro. Eligendi facilis ex quo, illo minima cumque praesentium dolorum perspiciatis.</p>\n              </div>\n            </div>\n          </div> <!-- hidden section appear on click -->\n        </div>\n      </div>\n\n\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#second_member\" class=\"member_pop\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-10.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Jhon Doe</h4>\n              <h5 class=\"dull\">Front-end Programmer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"second_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-10.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h4 class=\"name\">Jhon Doe</h4>\n                  <span class=\"info\">FrontEnd -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam dolor quos atque autem voluptas maxime perspiciatis ipsum magnam aliquid, deserunt perferendis eos in odio nobis veniam numquam minima distinctio explicabo, itaque consequatur sunt soluta. Praesentium nostrum dignissimos nam voluptates amet autem tempore quibusdam quo blanditiis maiores. Qui debitis, quae ut quia totam ipsa voluptatum facilis dolorem nisi in impedit error animi officia exercitationem iure dolorum tempore ab, magni provident suscipit! Voluptatibus ducimus vitae sed?</p>\n              </div>\n            </div>\n          </div><!-- hidden section appear on click -->\n        </div>\n      </div>\n\n\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#third_member\" class=\"member_pop\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-11.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Pamela Anderson</h4>\n              <h5 class=\"dull\">Back-end Developer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"third_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-11.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h4 class=\"name\">Pamela Anderson</h4>\n                  <span class=\"info\">Back-end Developer -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi nulla cupiditate, debitis autem. Ad, magnam, odio. Ab velit ullam, numquam! Vitae eos cumque quasi laborum, alias possimus! Facere aspernatur iusto voluptatibus tenetur natus dignissimos assumenda. Cumque sapiente minima pariatur eius fugit similique ab libero culpa doloribus nemo, animi veniam debitis sequi neque amet esse quis recusandae atque! Nostrum, ratione facilis illum repellendus, commodi fugiat dolor quia est perspiciatis in quasi quisquam nihil molestias esse?</p>\n              </div>\n            </div>\n          </div> <!-- hidden section appear on click -->\n        </div>\n      </div>\n\n    </div>\n  </div>\n</section> \n<!-- team -->",
+			"",
+			"<!-- subscribe -->\n<section class=\"subscribe single-padding cover-bg bb-1\" style=\"background-image: url(img/background/bg8.jpg);\">\n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"col-md-offset-7 col-md-5\">\n        <h4 class=\"h3\">Subscribe </h4>\n        <form class=\"mailchimp\">\n          <div class=\"input-group\">\n            <input class=\"email_input\" type=\"email\" name=\"email\" placeholder=\"Enter your email\">\n            <div class=\"input-group-btn\">\n              <button type=\"submit\" class=\"subscribe-submit\"><i class=\"fa fa-envelope\"></i></button>\n            </div>\n          </div>\n          <p class=\"mar-top-1\">Subscribe to our weekly newsletter, We promise you that we wont spam you. Asperiores totam molestias eaque sunt maiores delectus modi ut ab!</p>\n          <h4 class=\"subscription-success notice\">Success notice here</h4>\n          <h4 class=\"subscription-error notice\">Error notice here</h4>\n        </form>\n      </div>\n    </div>\n  </div>\n</section>\n<!-- subscribe end-->",
+			"",
+			"<!-- services -->\n<section id=\"services\" class=\"services padding gray-bg\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon flaticon-layers4\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Choose your required service from here</span>\n        Services We Provide\n      </h2>\n    </header>\n\n\n    <div class=\"row\">\n\n     <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Web Design</h4>\n        <img src=\"img/icons/png/colored/Laptop.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Web Design</h4>\n            \n            <li><a href=\"#\">PSD TO HTML</a></li>\n            <li><a href=\"#\">Adaptive Web Design</a></li>\n            <li><a href=\"#\">Responsive Web Design</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Web Application</h4>\n        <img src=\"img/icons/png/colored/Desktop.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Web Application</h4>\n            \n            <li><a href=\"#\">Larvel</a></li>\n            <li><a href=\"#\">Symphony</a></li>\n            <li><a href=\"#\">WordPress</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n\n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Site Maintenance</h4>\n        <img src=\"img/icons/png/colored/Browser_Icon.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Site Maintenance</h4>\n            \n            <li><a href=\"#\">Speeding Up</a></li>\n            <li><a href=\"#\">Server Maintain</a></li>\n            <li><a href=\"#\">System Management</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Project Management</h4>\n        <img src=\"img/icons/png/colored/Desk.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Project Management</h4>\n            \n            <li><a href=\"#\">Strategy Development </a></li>\n            <li><a href=\"#\">Project Manager</a></li>\n            <li><a href=\"#\">PM Training</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Illustration</h4>\n        <img src=\"img/icons/png/colored/Drawing_Tablet.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Illustration</h4>\n            \n            <li><a href=\"#\">Logo Design</a></li>\n            <li><a href=\"#\">Product Design</a></li>\n            <li><a href=\"#\">Item Redesign</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n    <div class=\"col-md-4 service-category col-sm-6\">\n      <div class=\"main-service\">\n        <h4>Brand Design</h4>\n        <img src=\"img/icons/png/colored/Presentation.png\" alt=\"benefits of product\" class=\"img-responsive\">\n        <div class=\"sub-services\">\n          <ul>\n            <h4>Brand Design</h4>\n            \n            <li><a href=\"#\">Digital Design</a></li>\n            <li><a href=\"#\">Creative Talking</a></li>\n            <li><a href=\"#\">Branding</a></li>\n          </ul>\n        </div>\n      </div>\n      \n    </div> \n\n\n\n  </div>\n</div>\n</section>\n<!-- services end -->",
+			"<!-- content-section -->\n<section id=\"content\" class=\"content-section padding\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon flaticon-shutdown1\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Content Description</span>\n        Our Contents\n      </h2>\n    </header>\n\n    <div class=\"row flex-row-center\">\n\n      <div class=\"col-sm-8\">\n        <div class=\"content_slide_1\">\n\n          <div class=\"item\">\n            <img class=\"img-responsive\" src=\"img/portfolio/bg6.jpg\" alt=\"Image\">\n          </div>\n\n          <div class=\"item\">\n            <img class=\"img-responsive\" src=\"img/portfolio/bg5.jpg\" alt=\"Image\">\n          </div>\n\n          <div class=\"item\">\n            <img class=\"img-responsive\" src=\"img/portfolio/bg4.jpg\" alt=\"Image\">\n          </div>\n\n        </div>\n      </div>\n\n      <div class=\"col-sm-4\">\n\n\n        <div class=\"accordion\" id=\"accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n          <div class=\"panel\">\n            <div class=\"title\" id=\"headingOne\">\n              <a data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseOne\" aria-expanded=\"true\" aria-controls=\"collapseOne\">Second Mesage\n                <p>First Mesage</p>\n              </a>\n            </div>\n            <div id=\"collapseOne\" class=\"desc panel-collapse collapse in\" role=\"tabpanel\" aria-labelledby=\"headingOne\">\n              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.\n            </div>\n          </div>\n\n\n          <div class=\"panel\">\n            <div class=\"title\" id=\"headingTwo\">\n              <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Second Mesage\n                <p>First Mesage</p>\n              </a>\n            </div>\n            <div id=\"collapseTwo\" class=\"desc panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingTwo\">\n              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.\n            </div>\n          </div>\n\n\n          <div class=\"panel\">\n            <div class=\"title\" id=\"headingThree\">\n              <a class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" href=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Second Mesage\n                <p>First Mesage</p>\n              </a>\n            </div>\n            <div id=\"collapseThree\" class=\"desc panel-collapse collapse\" role=\"tabpanel\" aria-labelledby=\"headingThree\">\n              Nunc placerat mi id nisi interdum mollis. Praesent pharetra, justo ut scelerisque mattis, leo quam aliquet diam, congue laoreet elit metus eget diam. Proin ac metus diam.\n            </div>\n          </div>\n        </div>\n\n\n\n      </div>\n\n    </div>\n\n  </div>\n</section>\n<!-- content-section end -->",
+			"<!-- pricing-table -->\n<section id=\"pricing_table\" class=\"pricing-tables bg-color3 single-padding\">\n  <div class=\"container  text-center\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon flaticon-dollar76\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">Product Packages</span>\n        Select your best deal !\n      </h2>\n    </header>\n\n    <div class=\"row\">\n      <div class=\"col-sm-4\">\n        <div class=\"pricing-table padding\">\n          <h5 class=\"text-uppercase\">Basic</h5>\n          <span class=\"price\">$12</span>\n          <p class=\"lead\">Per Month</p>\n          <ul>\n            <li><i class=\"fa fa-support\"></i><strong>Free</strong> Support </li>\n            <li><i class=\"fa fa-retweet\"></i><strong>Refund</strong> System</li>\n            <li><i class=\"fa fa-google-wallet\"></i><strong>Single</strong> Licence</li>\n            <li><i class=\"fa fa-flash\"></i><strong>24/7</strong> Support</li>\n            <li><i class=\"fa fa-hand-o-right\"></i><strong>Support</strong> Forum</li>\n          </ul>\n          <a class=\"btn btn-primary\" href=\"#\">Get Started</a>\n          <p>\n            30 Day One User\n            <br> Try Our Product Now\n          </p>\n        </div>\n      </div>\n      \n      <div class=\"col-sm-4\">\n\n        <div class=\"pricing-table suggested dark-bg padding\">\n\n          <h5 class=\"text-uppercase\">Premium</h5>\n          <span class=\"price\">$55</span>\n          <p class=\"lead\">Per Month</p>\n          <ul>\n            <li><i class=\"fa fa-support\"></i><strong>Free</strong> Support </li>\n            <li><i class=\"fa fa-retweet\"></i><strong>Refund</strong> System</li>\n            <li><i class=\"fa fa-google-wallet\"></i><strong>Single</strong> Licence</li>\n            <li><i class=\"fa fa-flash\"></i><strong>24/7</strong> Support</li>\n            <li><i class=\"fa fa-hand-o-right\"></i><strong>Support</strong> Forum</li>\n          </ul>\n          <a class=\"btn btn-primary btn-primary-white\" href=\"#\">Get Started</a>\n          <p>\n            30 Day Starter Pack\n            <br> Try Our Product Now\n          </p>\n        </div>\n      </div>\n\n      <div class=\"col-sm-4\">\n        <div class=\"pricing-table padding\">\n          \n          <i class=\"bg-icon fa fa-twitter twitter\"></i>\n          <h5 class=\"text-uppercase\">Ultimate</h5>\n          <span class=\"price\">$170</span>\n          <p class=\"lead\">Per Month</p>\n          <ul>\n            <li><i class=\"fa fa-support\"></i><strong>Free</strong> Support </li>\n            <li><i class=\"fa fa-retweet\"></i><strong>Refund</strong> System</li>\n            <li><i class=\"fa fa-google-wallet\"></i><strong>Single</strong> Licence</li>\n            <li><i class=\"fa fa-flash\"></i><strong>24/7</strong> Support</li>\n            <li><i class=\"fa fa-hand-o-right\"></i><strong>Support</strong> Forum</li>\n          </ul>\n          <a class=\"btn btn-primary\" href=\"#\">Get Started</a>\n          <p>\n            30 Day Ultimate Pack\n            <br> Try Our Product Now\n          </p>\n        </div>\n      </div>\n    </div>\n    <p class=\"mar-top dull\">Want to know more ? <a href=\"#\">read article</a>, check <a href=\"#\">FAQ</a>, or <a href=\"#contact\" class=\"goto\">contact us</a></p>\n  </div>\n</section>\n<!-- pricing-table -->",
+			"<!-- team -->\n<section id=\"team\" class=\"team text-center padding\">\n  <div class=\"container\">\n\n    <header class=\"heading_1 text-center\">\n      <i class=\"icon flaticon-black179\"></i>\n      <h2 class=\"main_title\">\n        <span class=\"sub_title\">People Who cares</span>\n        Our Team \n      </h2>\n    </header>\n\n\n    <div class=\"row\">\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#first_member\" class=\"member_pop\" title=\"ITEM TITLE\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-9.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Tom Doe</h4>\n              <h5 class=\"dull\">UI/UX Designer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"first_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-9.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h5 class=\"name h2\">Tom Doe</h5>\n                  <span class=\"info\">UI/UX -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores beatae nesciunt cupiditate incidunt, quam fugiat perspiciatis fugit autem sit repudiandae nisi recusandae labore necessitatibus ipsam vero ratione laudantium hic, fuga! Odit aspernatur nihil deleniti quisquam fuga dolorem sit debitis? Deleniti cupiditate dolore aliquam non consectetur perferendis culpa quidem, aliquid dignissimos dicta vel quo quam voluptatem quae sit possimus dolor, magnam voluptas ad aut porro. Eligendi facilis ex quo, illo minima cumque praesentium dolorum perspiciatis.</p>\n              </div>\n            </div>\n          </div> <!-- hidden section appear on click -->\n        </div>\n      </div>\n\n\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#second_member\" class=\"member_pop\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-10.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Jhon Doe</h4>\n              <h5 class=\"dull\">Front-end Programmer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"second_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-10.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h5 class=\"name h2\">Jhon Doe</h5>\n                  <span class=\"info\">FrontEnd -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam dolor quos atque autem voluptas maxime perspiciatis ipsum magnam aliquid, deserunt perferendis eos in odio nobis veniam numquam minima distinctio explicabo, itaque consequatur sunt soluta. Praesentium nostrum dignissimos nam voluptates amet autem tempore quibusdam quo blanditiis maiores. Qui debitis, quae ut quia totam ipsa voluptatum facilis dolorem nisi in impedit error animi officia exercitationem iure dolorum tempore ab, magni provident suscipit! Voluptatibus ducimus vitae sed?</p>\n              </div>\n            </div>\n          </div><!-- hidden section appear on click -->\n        </div>\n      </div>\n\n\n      <div class=\"col-sm-4\">\n        <div class=\"member-details\">\n\n          <a href=\"#third_member\" class=\"member_pop\" data-effect=\"mfp_zoom_out\">\n            <img src=\"img/team/team-11.jpg\" alt=\"Team Member\">\n            <div class=\"team-info\">\n              <h4>Pamela Anderson</h4>\n              <h5 class=\"dull\">Back-end Developer</h5>\n            </div>\n          </a>\n\n          <ul class=\"member_social\">\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n            <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n          </ul>\n\n          <div id=\"third_member\" class=\"container team_member_bio mfp-hide\">\n            <div class=\"magnificPopUp_close\">close</div>\n            <div class=\"row flex-row-center\">\n              <div class=\"col-md-6 member_image\">\n                <img src=\"img/team/team-11.jpg\" alt=\"Image\">\n              </div>\n              <div class=\"col-md-6 member_details\">\n                <div class=\"cred\">\n                  <h5 class=\"name h2\">Pamela Anderson</h5>\n                  <span class=\"info\">Back-end Developer -- </span>\n\n                  <ul class=\"member_social\">\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-facebook facebook\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-twitter twitter\"></i></a></li>\n                    <li><a href=\"#\" target=\"_blank\"><i class=\"fa fa-linkedin linkedin\"></i></a></li>\n                  </ul>\n\n                </div>\n                <p class=\"about\">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi nulla cupiditate, debitis autem. Ad, magnam, odio. Ab velit ullam, numquam! Vitae eos cumque quasi laborum, alias possimus! Facere aspernatur iusto voluptatibus tenetur natus dignissimos assumenda. Cumque sapiente minima pariatur eius fugit similique ab libero culpa doloribus nemo, animi veniam debitis sequi neque amet esse quis recusandae atque! Nostrum, ratione facilis illum repellendus, commodi fugiat dolor quia est perspiciatis in quasi quisquam nihil molestias esse?</p>\n              </div>\n            </div>\n          </div> <!-- hidden section appear on click -->\n        </div>\n      </div>\n\n    </div>\n  </div>\n</section> \n<!-- team -->",
+			"<h5 class=\"name h2\">Pamela Anderson</h5>",
+			"<h5 class=\"name h2\">Jhon Doe</h5>",
+			"<h5 class=\"name h2\">Tom Doe</h5>",
+			"<link href='https://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>",
+			"<div class=\"row text-center\">\n\n        <div class=\"col-sm-4\">\n          <div class=\"img\"> <img src=\"img/icons/png/colored/Desktop.png\" alt=\"benefits of product\"></div>\n          <h4>SUPER CLEAN</h4>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pug/index.pug",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "agency.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"boo",
+				"css\\bootstrap.css"
+			],
+			[
+				"ic",
+				"plugins\\Animocons-master\\css\\icons.css"
+			],
+			[
+				"",
+				"css\\style.css"
+			],
+			[
+				"c",
+				"js\\custom.js"
+			],
+			[
+				"st",
+				"css\\style.css"
+			],
+			[
+				"windy.j",
+				"plugins\\Windy\\Windy\\js\\jquery.windy.js"
+			],
+			[
+				"sty",
+				"css\\style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"thb",
+				"js\\thb.windy.js"
+			],
+			[
+				"cus",
+				"js\\custom.js"
+			],
+			[
+				"font",
+				"css\\font-awesome.min.css"
+			],
+			[
+				"cu",
+				"js\\custom.js"
+			],
+			[
+				"ty",
+				"typo.html"
+			],
+			[
+				"styl",
+				"css\\style.css"
+			],
+			[
+				"fla",
+				"css\\flaticon.css"
+			],
+			[
+				"main",
+				"js\\main.js"
+			],
+			[
+				"jque",
+				"js\\vendor\\jquery-1.11.3.js"
+			],
+			[
+				"jqu",
+				"js\\vendor\\jquery-1.11.3.min.js"
+			],
+			[
+				"norm",
+				"css\\normalize.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"abou",
+				"src\\templates\\about.jade"
+			],
+			[
+				"mains",
+				"src\\sass\\main.scss"
+			],
+			[
+				"ind",
+				"templates\\index.jade"
+			],
+			[
+				"foo",
+				"templates\\footer.jade"
+			],
+			[
+				"head",
+				"templates\\head.jade"
+			],
+			[
+				"gulp",
+				"F:\\ghughu\\gulpfile.js"
+			],
+			[
+				"im",
+				"image.html"
+			],
+			[
+				"vide",
+				"html\\video.html"
+			],
+			[
+				"de",
+				"html\\default.html"
+			],
+			[
+				"def",
+				"html\\default.html"
+			],
+			[
+				"su",
+				"html\\subscribe.html"
+			],
+			[
+				"ima",
+				"html\\image.html"
+			],
+			[
+				"syle",
+				"documentation\\css\\style.css"
+			],
+			[
+				"style",
+				"documentation\\css\\style.css"
+			],
+			[
+				"vid",
+				"html\\video.html"
+			],
+			[
+				"imag",
+				"html\\image.html"
+			],
+			[
+				"anim",
+				"html\\css\\animate.min.css"
+			],
+			[
+				"image",
+				"html\\image.html"
+			],
+			[
+				"regi",
+				"html\\registration.html"
+			],
+			[
+				"sub",
+				"html\\subscribe.html"
+			],
+			[
+				"re",
+				"html\\registration.html"
+			],
+			[
+				"ele",
+				"html\\elements.html"
+			],
+			[
+				"subs",
+				"html\\subscribe.html"
+			],
+			[
+				"sy",
+				"html\\css\\style.css"
+			],
+			[
+				"index",
+				"html\\index.html"
+			],
+			[
+				"anima",
+				"documentation\\css\\animate.css"
+			],
+			[
+				"pref",
+				"html\\js\\prefixfree.min.js"
+			],
+			[
+				"sli",
+				"html\\slider.html"
+			],
+			[
+				"slid",
+				"html\\slider.html"
+			],
+			[
+				"prefi",
+				"html\\js\\prefixfree.min.js"
+			],
+			[
+				"slider",
+				"html\\slider.html"
+			],
+			[
+				"for",
+				"form_processing.php"
+			],
+			[
+				"form",
+				"form.php"
+			],
+			[
+				"inc",
+				"included_header.php"
+			],
+			[
+				"html",
+				"htmlencoding.php"
+			],
+			[
+				"seco",
+				"second_page.php"
+			],
+			[
+				"fir",
+				"first_page.php"
+			],
+			[
+				"sco",
+				"functions_scope.php"
+			],
+			[
+				"mul",
+				"functions_multiplereturns.php"
+			],
+			[
+				"retru",
+				"functions_returnvalues.php"
+			],
+			[
+				"func",
+				"functions_arguments.php"
+			],
+			[
+				"fu",
+				"functions_defining.php"
+			],
+			[
+				"typ",
+				"type_casting.php"
+			],
+			[
+				"pra",
+				"practise.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
